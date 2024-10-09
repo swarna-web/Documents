@@ -1,0 +1,11 @@
+*{
+    font-family: monospace;
+}
+body{
+    margin:0;
+}
+header{
+    height: 100px;
+    color:white;
+    background-color: aqua;
+}
